@@ -1,0 +1,1 @@
+print("projeto offline, originalmente sem controle de versao, que será incluido no GIT")
